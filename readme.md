@@ -17,19 +17,16 @@ Remember to watch the tutorial on youtube if you have any problems, or just cont
 
 ## Important links to contact me
 
-## How to connect to me 
 Follow me on my social media handles
-* Subscribe on [Youtube](https://www.youtube.com/c/braintemorg?sub_confirmation=1)
-* Follow on [Twitter](http://twitter.com/braintem)
-* Follow on [Instagram](http://instagram.com/daveozoalor)
-* Like on [Facebook](http://fb.com/braintem)
+* Subscribe to my channel on [Youtube](https://www.youtube.com/c/braintemorg?sub_confirmation=1)
+* Follow on [Braintempl on Twitter](http://twitter.com/braintem) and [Dave Partner on Twitter](http://twitter.com/daveozoalor)
+* Follow me on [Instagram](http://instagram.com/daveozoalor)
+* Like on [Braintemple on Facebook](http://fb.com/braintem) , [Chat me up on Facebook](http://fb.com/daveozoalor)
+* You can reach the me on `daveozoalor@gmail.com`, I'd like to join your team.
+
 * Documentation for the Lumen framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
 * You going hard or you going home?
 
-## Contacts
-
-* You can reach the me on `daveozoalor@gmail.com`, I'd like to join your team.
-* Just buzz me up on [facebook](http://facebook.com/daveozoalor)
 
 ## License
 This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
