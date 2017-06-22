@@ -1,21 +1,35 @@
 # Lumen PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+I made a complete tutorial for this repository on youtube, you can check it out here => [Braintemple Tutorial TV - Lumen API Documentation Tutorial](https://www.youtube.com/watch?v=buve5m9agVk&list=PLnBvgoOXZNCMkjbxT1BdpfT43icVNzKV-)
 
-## Official Documentation
+## How to install
+* Star this repository by clicking the star icon on the top right corner of this page
+* Clone this repostory into your system by running `git clone https://github.com/daveozoalor/lumen-api-microservice-platform-boilerplate-with-authentication-token.git`
+* Cd into the folder and run `npm install` . 
+* Create a database on your favourite database management system eg. PHPmyadmin, MysqlWorkbench etc
+* Edit the `.env` file in the root folder of the app you cloned. Enter the database details the .`.env` file. 
+* Then run your migration by running `php artisan migrate` .
+* Start the server from your command line by running `php -S localhost:8000 -t public`
 
-Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
+Remember to watch the tutorial on youtube if you have any problems, or just contact me using any of the links below. I can join your team if we have a good talk.
 
-## Security Vulnerabilities
+## Important links to contact me
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## How to connect to me 
+Follow me on my social media handles
+* Subscribe on [Youtube](https://www.youtube.com/c/braintemorg?sub_confirmation=1)
+* Follow on [Twitter](http://twitter.com/braintem)
+* Follow on [Instagram](http://instagram.com/daveozoalor)
+* Like on [Facebook](http://fb.com/braintem)
+* Documentation for the Lumen framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
+* You going hard or you going home?
+
+## Contacts
+
+* You can reach the me on `daveozoalor@gmail.com`, I'd like to join your team.
+* Just buzz me up on [facebook](http://facebook.com/daveozoalor)
 
 ## License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+This project is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
